@@ -74,3 +74,5 @@ const T& Stack<T>::top() const {
         return stack_[topIndex];
     }
 }
+
+#endif
